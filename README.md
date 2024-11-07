@@ -8,3 +8,5 @@
 
 ## 4 [Basic of R](https://www.kaggle.com/code/devamin/learn-r-programming)
 
+## 5 [Exploratory Data Analysis (EDA)](https://www.kaggle.com/code/devamin/exploratory-data-analysis-techniques-for-financial)
+
