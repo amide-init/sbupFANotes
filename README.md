@@ -14,3 +14,5 @@
 
 ## 7 [Descriptive statistics and summary measures ](https://www.kaggle.com/code/devamin/descriptive-statistics-and-summary-measures)
 
+## 8 [Time series analysis and forecasting](https://www.kaggle.com/code/devamin/time-series-analysis-and-forecasting)
+
