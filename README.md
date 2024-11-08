@@ -12,3 +12,5 @@
 
 ## 6 [Data visualization techniques for financial data R](https://www.kaggle.com/code/devamin/data-manag-and-processing)
 
+## 7 [Descriptive statistics and summary measures ](https://www.kaggle.com/code/devamin/descriptive-statistics-and-summary-measures)
+
