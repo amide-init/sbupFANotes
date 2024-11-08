@@ -16,3 +16,5 @@
 
 ## 8 [Time series analysis and forecasting](https://www.kaggle.com/code/devamin/time-series-analysis-and-forecasting)
 
+## 9 [Sharpe Ratio  & Monto Carlo](https://www.kaggle.com/code/devamin/sharpe-ratio-monto-carlo)
+
