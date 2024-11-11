@@ -10,7 +10,7 @@
 
 ## 5 [Exploratory Data Analysis (EDA)](https://www.kaggle.com/code/devamin/exploratory-data-analysis-techniques-for-financial)
 
-## 6 [Data visualization techniques for financial data R](https://www.kaggle.com/code/devamin/data-manag-and-processing)
+## 6 [Data visualization techniques for financial data R](https://www.kaggle.com/code/devamin/data-visualization-techniques-for-financial-data-r)
 
 ## 7 [Descriptive statistics and summary measures ](https://www.kaggle.com/code/devamin/descriptive-statistics-and-summary-measures)
 
